@@ -1,0 +1,26 @@
+     body {
+        background-color: #f8f9fa;
+      }
+      .navbar {
+        background-color: #343a40 !important;
+      }
+      .jumbotron {
+        background-image: url('./image/dyson-sphere-hd-wallpaper-1500x600.jpg');
+        background-size: cover;
+        color: #fff;
+        text-align: center;
+        padding: 150px 0;
+      }
+      .services {
+        background-color: #fff;
+        padding: 50px 0;
+      }
+      .service-item {
+        text-align: center;
+      }
+      .footer {
+        background-color: #343a40;
+        color: #fff;
+        padding: 50px 0;
+        text-align: center;
+      }
